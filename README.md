@@ -1,2 +1,2 @@
 # github-demo
-This is the ist in Github
+This is the 2nd in Github 
